@@ -1,0 +1,23 @@
+# Requirements for Weather Data Analysis Project
+
+This file lists all the necessary Python libraries required to run the Weather Data Analysis project.
+
+## Dependencies
+
+```
+pandas   # For data manipulation and analysis
+numpy    # For numerical computations
+matplotlib  # For data visualization
+seaborn  # For statistical data visualization
+jupyter  # To run and interact with Jupyter Notebooks
+```
+
+These dependencies ensure smooth execution of data cleaning, exploration, visualization, and analysis in the project.
+
+## Installation
+To install all the required libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
